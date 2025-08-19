@@ -41,15 +41,15 @@ export default function TVBoxSalesPage() {
               Sua TV
             </h1>
             <p className="hero-subtitle">
-              Acesse milhares de canais, filmes e séries em alta definição.
+              Acesse centenas de canais, filmes e séries em alta definição.
               Transforme sua TV comum em uma Smart TV completa.
             </p>
             <div className="hero-buttons">
               <button className="btn btn-primary btn-lg">
-                Comprar Agora - R$ 28,90
+                Testar gratis por 7 dias (CELULAR)
               </button>
               <button className="btn btn-outline btn-lg">
-                Testar gratis por 7 dias
+                Testar gratis por 7 dias (PC)
               </button>
             </div>
             <div className="hero-image">
